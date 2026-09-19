@@ -12,7 +12,7 @@ using:
 
 ## 🌐 Live App
 
-👉 [Open the Agentic AI eBook — RAG Chatbot]()
+👉 [Open the Agentic AI eBook — RAG Chatbot](https://agenticaiebook-rag-chatbot-cxb5a4f5bgyxok5unf4q8g.streamlit.app/)
 
 ## 📁 Project Structure
 
@@ -73,8 +73,6 @@ Re-run this whenever source PDF changes
 ```bash
 streamlit run app.py
 ```
-
-Open the URL Streamlit prints (usually http://localhost:8501).
 
 ## 💬 How it works (RAG pipeline)
 
